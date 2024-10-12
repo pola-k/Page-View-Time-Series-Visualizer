@@ -62,7 +62,7 @@ Each box plot is colored randomly to enhance visualization.
 3. Place the dataset file (`fcc-forum-pageviews.csv`) in the same directory as the script.
 4. Run the Python script to generate the visualizations:
 ```bash
-python script_name.py
+python time_series_visualizer.py
 ```
 5. The visualizations will be saved as `.png` files.
 
